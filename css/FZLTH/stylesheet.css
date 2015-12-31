@@ -1,4 +1,8 @@
 @font-face {
 	font-family: 'FZLTH';
-	src: url('FZLTH.ttf') format('truetype');
+	src:url('FZLTH.eot');
+	src:url('FZLTH.eot?#iefix') format('embedded-opentype'),
+		url('FZLTH.woff') format('woff'),
+		url('FZLTH.ttf') format('truetype'),
+		url('FZLTH.svg#ElegantIcons') format('svg');
 }

@@ -1,4 +1,8 @@
 @font-face {
 	font-family: 'fzzyjw';
-	src: url('fzzyjw.ttf') format('truetype');
+	src:url('fzzyjw.eot');
+	src:url('fzzyjw.eot?#iefix') format('embedded-opentype'),
+		url('fzzyjw.woff') format('woff'),
+		url('fzzyjw.ttf') format('truetype'),
+		url('fzzyjw.svg#ElegantIcons') format('svg');
 }
