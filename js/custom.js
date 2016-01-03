@@ -45,19 +45,16 @@ $(document).ready(function () {
      =============================================== */
 
     $("#testimonial-carousel").owlCarousel({
-
         navigation: false, // Show next and prev buttons
         slideSpeed: 600,
         pagination: true,
         itemsDesktop: [1199, 3],
         itemsDesktopSmall: [979, 3],
         singleItem: true
-
     });
 
     // Custom Navigation Events
     var owl = $("#testimonial-carousel");
-
 
     // Custom Navigation Events
     $(".next").click(function () {
@@ -88,7 +85,6 @@ $(document).ready(function () {
         itemsDesktopSmall: [979, 3],
         stopOnHover: true,
         autoPlay: true
-
     });
 
 
