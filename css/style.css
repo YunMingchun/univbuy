@@ -599,7 +599,8 @@ h5{
 	border: 0px;
 }
 .carousel-indicators li.active{
-	background: #00AEFF;
+	/*background: #00AEFF;*/
+	background: #805BD8;
 	border: 0px;
 }
 
